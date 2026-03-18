@@ -52,7 +52,3 @@
 </picture>
 
 ###
-
-<img src="https://raw.githubusercontent.com/PedroReinbold/PedroReinbold/output/snake.svg" alt="Snake animation" />
-
-###
